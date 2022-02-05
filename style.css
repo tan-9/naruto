@@ -1,0 +1,42 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #F3F840;
+}
+#id {
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+hr{
+    border-top: 10px solid black;
+    border-radius: 10px;
+    width: 30px;
+}
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+#About{
+    background-color: #F3F840;
+}
+#Anime{
+    background-color: #F3F840;
+}
+.team7{
+    width: 300px;
+    height: 500px;
+}
+.workss{
+    background-color: black;
+    color: white;
+}
